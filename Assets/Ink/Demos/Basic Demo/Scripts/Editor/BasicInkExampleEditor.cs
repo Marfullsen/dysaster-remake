@@ -7,6 +7,8 @@ using UnityEngine;
 [InitializeOnLoad]
 public class BasicInkExampleEditor : Editor {
     static bool storyExpanded;
+    public Story story { get; private set; }
+
     static BasicInkExampleEditor () {
         BasicInkExample.OnCreateStory += OnCreateStory;
     }
