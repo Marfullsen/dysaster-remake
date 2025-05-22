@@ -4,7 +4,9 @@
 
 # Dysaster Remake
 
-[![Unity](https://img.shields.io/badge/Unity-2022-purple.svg)](https://unity.com/)
+[![Unity](https://img.shields.io/badge/Unity-2022.3-red.svg)](https://unity.com/)
+[![Ink](https://img.shields.io/badge/Ink-1.2.1-yellow.svg)](https://www.inklestudios.com/ink/)
+[![Ink-Fungus-Gateway](https://img.shields.io/badge/Ink--Fungus-Gateway-blue.svg)](https://assetstore.unity.com/packages/tools/integration/ink-fungus-gateway-168147)
 
 ¡Prepara tus mejores decisiones mientras haces todo por salir con vida!
 
