@@ -100,6 +100,7 @@ Para la versión de desarrollo se necesita el motor de creación de videojuegos 
 
 - [Unity](https://unity.com/) - Motor para crear videojuegos.
 - [Ink](https://www.inklestudios.com/ink/) - Lenguaje de narración de guiones para juegos.
+- [Ink-Fungus Gateway](https://maurovanetti.itch.io/ifg) - Herramienta para crear juegos narrativos.
 
 ## :musical_score: Banda Sonora  <a name = "soundtrack"></a>
 
