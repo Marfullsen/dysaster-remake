@@ -121,7 +121,12 @@ El Soundtrack del juego estará disponible en formato mp3
 
 - Agradecimientos al profesor del taller de videojuegos de San Joaquin.
   - :man_teacher: Erwin Aguilera Segura
+- Agradecimientos a 1001 Avventura, el italiano que hizo el único video disponible sobre el Gateway Ink-Fungus **(en italiano)**.
+ - Ink-Fungus Gateway / Narrativa Interattiva ([video en YT en italiano](https://www.youtube.com/watch?v=xODJhYLwt7E))
+ - Visual Novels con Ink+Fungus / Narrativa Interattiva ([video en YT en italiano](https://www.youtube.com/watch?v=Yin_14QGRcY))
 - :globe_with_meridians: [Juego Original](https://github.com/Marfullsen/dysaster-the-game) ganador de la DevJam 2021.
 - :globe_with_meridians: [Freepik](https://www.freepik.com/free-photos-vectors/)
 - :globe_with_meridians: [Documentación oficial de Unity](https://docs.unity.com/)
 - :globe_with_meridians: Asset de extensión [Ink Integration for Unity](https://assetstore.unity.com/packages/tools/integration/ink-integration-for-unity-60055)
+
+**Un ringraziamento speciale va a [1001avventura](https://www.youtube.com/@1001avventura) per il suo video fondamentale su [Fungus-Ink Gateway](https://www.youtube.com/watch?v=Yin_14QGRcY) che abbiamo avuto la fortuna di trovare su YouTube. Grazie mille.**
