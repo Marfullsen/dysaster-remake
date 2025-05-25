@@ -1,6 +1,5 @@
-VAR z = 7
-LIST people = (Mauro), (Wauro)
-VAR planet = ""
+-> start
+=== start ===
 
 Prisión de Guantánamo, Cuba
 
