@@ -107,8 +107,8 @@ Para la versión de desarrollo se necesita el motor de creación de videojuegos 
 ## :musical_score: Banda Sonora  <a name = "soundtrack"></a>
 
 El Soundtrack del juego estará disponible en formato mp3
-- :microphone:	**main-menu-voice.mp3** (¡Pronto!)
-- :musical_note: **bg-renovated-theme.mp3** (¡Pronto!)
+- :microphone:	Voz Gutural (por Diego Palmeiro) - [**main_title_voice_palmeiro.ogg**](./docs/audio/main_title_voice_palmeiro.ogg)
+- :musical_note: Opening del juego - Dysaster Intro - [**dysaster_intro.wav**](./docs/audio/dysaster_intro.wav)
 
 ## ✍️ Autores <a name = "authors"></a>
 
