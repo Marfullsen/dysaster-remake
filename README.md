@@ -101,6 +101,7 @@ Para la versión de desarrollo se necesita el motor de creación de videojuegos 
 ## ⛏️ Tecnologías usadas <a name = "tech_stack"></a>
 
 - [Unity](https://unity.com/) - Motor para crear videojuegos.
+- [Fungus](https://fungusgames.com/) - Herramienta para crear juegos de narración interactiva en Unity.
 - [Ink](https://www.inklestudios.com/ink/) - Lenguaje de narración de guiones para juegos.
 - [Ink-Fungus Gateway](https://maurovanetti.itch.io/ifg) - Herramienta para crear juegos narrativos.
 
@@ -132,6 +133,7 @@ El Soundtrack del juego estará disponible en formato mp3
 - :globe_with_meridians: [Freepik](https://www.freepik.com/free-photos-vectors/)
 - :globe_with_meridians: [Documentación oficial de Unity](https://docs.unity.com/)
 - :globe_with_meridians: Asset de extensión [Ink Integration for Unity](https://assetstore.unity.com/packages/tools/integration/ink-integration-for-unity-60055)
+- :globe_with_meridians: Documentación del Gateway Fungus-Ink [en github](https://github.com/maurovanetti/inkfungus-template)
 
 **感谢 [DTM3DS](https://www.youtube.com/@dtm3ds) 提供的 Unity Fungus 教程**
 
