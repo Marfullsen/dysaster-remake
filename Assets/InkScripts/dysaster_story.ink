@@ -13,7 +13,7 @@ Pero ahora ha llegado el momento decisivo...
 
 === norte_o_sur ===
 fugitivo "¡Dos caminos y ninguno pareciera darme alguna pista!
-¿Hacia dónde debería correr?
+fugitivo "¿Hacia dónde debería correr?
     + [Correr hacia el norte]
         -> ir_al_norte
     + [Correr hacia el sur]
