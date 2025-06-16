@@ -121,6 +121,7 @@ El Soundtrack del juego estará disponible en formato mp3
 ## 🎉 Agradecimientos, referencias y menciones <a name = "acknowledgments"></a>
 
 - :microphone: Agradecimientos a Diego Palmeiro por la voz de la pantalla de inicio.
+- :construction: Agradecimientos a Benjamín Diaz por su ayuda en el uso de Unity, en especial sobre el escalado de las imágenes.
 - Agradecimientos al profesor del taller de videojuegos de San Joaquin.
   - :man_teacher: Erwin Aguilera Segura
 - Agradecimientos a 1001 Avventura, el italiano que hizo el único video disponible sobre el Gateway Ink-Fungus **(en italiano)**.
