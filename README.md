@@ -120,22 +120,20 @@ El Soundtrack del juego estará disponible en formato mp3
 
 ## 🎉 Agradecimientos, referencias y menciones <a name = "acknowledgments"></a>
 
-- :microphone: Agradecimientos a Diego Palmeiro por la voz de la pantalla de inicio.
-- :construction: Agradecimientos a Benjamín Diaz por su ayuda en el uso de Unity, en especial sobre el escalado de las imágenes.
-- :man_teacher: Agradecimientos al profesor Erwin Aguilera Segura del taller de videojuegos de San Joaquin.
-
++ :microphone: Agradecimientos a Diego Palmeiro por la voz de la pantalla de inicio.
++ :construction: Agradecimientos a Benjamín Diaz por su ayuda en el uso de Unity, en especial sobre el escalado de las imágenes.
++ :man_teacher: Agradecimientos al profesor Erwin Aguilera Segura del taller de videojuegos de San Joaquin.
 - :link: Agradecimientos a 1001 Avventura, el italiano que hizo el único video disponible sobre el Gateway Ink-Fungus **(en italiano)**.
   - Ink-Fungus Gateway / Narrativa Interattiva ([video en YT en italiano](https://www.youtube.com/watch?v=xODJhYLwt7E))
   - Visual Novels con Ink+Fungus / Narrativa Interattiva ([video en YT en italiano](https://www.youtube.com/watch?v=Yin_14QGRcY))
 - :link: Agradecimientos a [DTM3DS](https://www.youtube.com/@dtm3ds), el chinito que hizo videos que nos fueron muy útiles para entender Fungus en Unity.
   - Unity Fungus Tutorial 教程 ([Listado de videos en YT en chino](https://www.youtube.com/playlist?list=PLB9J5dvus99gdZovlRBr83l-jee_Dvx0c))
     - En especial para entender las vistas, nos fue muy útil ver: Unity Fungus Tutorial 5 Camera & Views 照相机和取景教程 ([Video en YT en chino](https://www.youtube.com/watch?v=8xEci-S3kic))
-
-- :globe_with_meridians: [Juego Original](https://github.com/Marfullsen/dysaster-the-game) ganador de la DevJam 2021.
-- :globe_with_meridians: [Freepik](https://www.freepik.com/free-photos-vectors/)
-- :globe_with_meridians: [Documentación oficial de Unity](https://docs.unity.com/)
-- :globe_with_meridians: Asset de extensión [Ink Integration for Unity](https://assetstore.unity.com/packages/tools/integration/ink-integration-for-unity-60055)
-- :globe_with_meridians: Documentación del Gateway Fungus-Ink [en github](https://github.com/maurovanetti/inkfungus-template)
+* :globe_with_meridians: [Juego Original](https://github.com/Marfullsen/dysaster-the-game) ganador de la DevJam 2021.
+* :globe_with_meridians: [Freepik](https://www.freepik.com/free-photos-vectors/)
+* :globe_with_meridians: [Documentación oficial de Unity](https://docs.unity.com/)
+* :globe_with_meridians: Asset de extensión [Ink Integration for Unity](https://assetstore.unity.com/packages/tools/integration/ink-integration-for-unity-60055)
+* :globe_with_meridians: Documentación del Gateway Fungus-Ink [en github](https://github.com/maurovanetti/inkfungus-template)
 
 **感谢 [DTM3DS](https://www.youtube.com/@dtm3ds) 提供的 Unity Fungus 教程**
 
